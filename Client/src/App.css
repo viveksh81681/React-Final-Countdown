@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.Cards {
+  display: grid;
+  grid-template-columns: repeat(2,50%);
+  margin: auto;
+  width: 70%;
+  margin-top: 50px;
+  border: 1px solid red;
+}
+.Cards div {
+  /* border: 1px solid black; */
+  margin: 5px;
+}
+.Cards h3 {
+  color:  crimson;
+}
